@@ -55,4 +55,4 @@ spec:
           certificateIssuer: cert
           hosts:
             - sephseti.xyz
-            - *.sephseti.xyz
+            - '*.sephseti.xyz'
